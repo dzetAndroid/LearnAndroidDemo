@@ -17,7 +17,7 @@ android 统一版本控制
 ----
 android 编译方案
 
- - Freeline - Android平台上的秒级编译方案 ==> http://blog.csdn.net/qqduxingzhe/article/details/72778861
+ - Gradle
 
 ----
 # License

@@ -18,17 +18,16 @@ apply plugin: 'com.android.application'
 
 def conf = rootProject.ext.version
 def libs = rootProject.ext.dependencies
-
 android {
     compileSdkVersion conf.compileSdkVersion
     buildToolsVersion conf.buildToolsVersion
+
     defaultConfig {
-        applicationId "com.dzet.demo01"
+        applicationId "com.dzet.demo"
         minSdkVersion conf.minSdkVersion
         targetSdkVersion conf.targetSdkVersion
         versionCode 1
         versionName "1.0"
-
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
     }

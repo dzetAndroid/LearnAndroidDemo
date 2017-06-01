@@ -1,4 +1,4 @@
-package com.dzet.learnandroiddemo;
+package com.dzet.demo;
 
 import org.junit.Test;
 
