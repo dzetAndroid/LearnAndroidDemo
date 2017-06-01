@@ -16,9 +16,11 @@
 
 package com.dzet.demo01;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -35,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * 发送信息（与Button onClick="sendMessage" 对应）
-     *
+     * <p>
      * 如何响应Button的onClick
      * 1. 公共方法
      * 2. 无返回值
@@ -44,10 +46,11 @@ public class MainActivity extends AppCompatActivity {
      * @param view
      */
     public void sendMessage(View view) {
-//        Intent intent = new Intent(this, DisplayMessageActivity.class);
-//        EditText editText = (EditText) findViewById(R.id.editText);
-
-
-
+        // Intent是指相互独立的组件（如两个Activity）之间提供运行时绑定功能的对象
+        Intent intent = new Intent(this, DisplayMessageActivity.class);
+        EditText editText = (EditText) findViewById(R.id.editText);
+        String message = editText.getText().toString();
+        intent.putExtra(MainActivity.EXTRA_MESSAGE, message);
+        startActivity(intent);
     }
 }
