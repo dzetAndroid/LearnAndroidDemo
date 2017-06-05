@@ -1,4 +1,4 @@
-package com.example.demo02;
+package com.dzet.demo02;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
