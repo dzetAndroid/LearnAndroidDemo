@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_view.xml",
+        "source": "E:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\src\\main\\res\\layout\\activity_card_view.xml"
+    },
+    {
+        "merged": "E:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_card_view.xml",
+        "source": "E:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\src\\main\\res\\layout\\fragment_card_view.xml"
+    }
+]

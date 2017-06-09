@@ -1,4 +1,4 @@
-package com.dzet.demo02;
+package com.example.learnrxjava;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

@@ -1,0 +1,7 @@
+#Fri Jun 09 22:17:50 CST 2017
+base.0=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_50751b899d1bb3a77032855c580c3b9b90c23288
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7bff551a6b3811214783c6dbb287f4a287ef8a55\\classes.dex
+base.1=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7bff551a6b3811214783c6dbb287f4a287ef8a55
+file.0=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_50751b899d1bb3a77032855c580c3b9b90c23288\\classes.dex

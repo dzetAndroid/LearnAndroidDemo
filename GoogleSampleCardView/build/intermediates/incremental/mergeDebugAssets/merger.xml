@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Zet\.android\build-cache\85cdc80f380456395866b4a9583e45095b8c9b77\output\assets"/></dataSet><dataSet config="main"><source path="E:\___Github\___Android\___raywenderlich\CardView\Application\src\main\assets"/><source path="E:\___Github\___Android\___raywenderlich\CardView\Application\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\___Github\___Android\___raywenderlich\CardView\Application\src\debug\assets"/></dataSet></merger>

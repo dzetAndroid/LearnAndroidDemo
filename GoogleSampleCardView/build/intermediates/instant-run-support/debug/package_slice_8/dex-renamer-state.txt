@@ -1,0 +1,4 @@
+#Fri Jun 09 22:17:50 CST 2017
+base.0=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

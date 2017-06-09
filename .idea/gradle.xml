@@ -8,9 +8,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/GoogleSampleCardView" />
             <option value="$PROJECT_DIR$/demo" />
             <option value="$PROJECT_DIR$/demo01" />
             <option value="$PROJECT_DIR$/demo02" />
+            <option value="$PROJECT_DIR$/learnasynchttpclient" />
+            <option value="$PROJECT_DIR$/learnrxjava" />
+            <option value="$PROJECT_DIR$/learnsharedpreferencesanduseutil" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Fri Jun 09 22:17:50 CST 2017
+2.base=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_50751b899d1bb3a77032855c580c3b9b90c23288
+5.file=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7bff551a6b3811214783c6dbb287f4a287ef8a55
+6.file=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_card_view.xml
+2.set=DEX
+4.base=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=9
+0.file=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tile.9.png
+5.base=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.file=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_card_view.xml
+4.set=ANDROID_RESOURCE
+6.base=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\fragment_card_view.xml
+1.set=ANDROID_RESOURCE
+7.base=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_50751b899d1bb3a77032855c580c3b9b90c23288\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.base=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7bff551a6b3811214783c6dbb287f4a287ef8a55\\classes.dex
+3.set=DEX
+1.base=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\___Github\\___Android\\___raywenderlich\\CardView\\Application\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
